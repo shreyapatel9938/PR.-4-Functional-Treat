@@ -82,3 +82,9 @@ The program provides the following features:
 17. **F-Strings:** Used to display formatted output, including the average up to two decimal places.
 
 18. **Docstrings:** Used to describe the purpose of functions.
+
+![screenshot 1](Output1.png)
+![screenshot 2](Output2.png)
+![screenshot 3](Output3.png)
+![screenshot 4](Output4.png)
+![screenshot 5](Output5.png)
