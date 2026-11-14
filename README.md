@@ -83,6 +83,8 @@ The program provides the following features:
 
 18. **Docstrings:** Used to describe the purpose of functions.
 
+## Output:
+
 ![screenshot 1](Output1.png)
 ![screenshot 2](Output2.png)
 ![screenshot 3](Output3.png)
